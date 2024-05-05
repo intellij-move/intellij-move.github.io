@@ -1,3 +1,0 @@
-# Go-to-Definition Support
-
-Start typing here...
