@@ -15,8 +15,8 @@
     <toc-element topic="Navigation-and-Search.md" />
     <toc-element topic="Code-Reference-Info.md" />
     <toc-element topic="Code-Formatter.md" />
-    <toc-element topic="Type-Checking.md" />
-    <toc-element topic="Use-Statements-Integration.md" />
+    <toc-element topic="Code-Analysis.md" />
+    <toc-element topic="Imports-Integration.md" />
     <toc-element topic="Aptos-Integration.md" />
   </toc-element>
   <toc-element topic="Run-Aptos-CLI-commands.md">
