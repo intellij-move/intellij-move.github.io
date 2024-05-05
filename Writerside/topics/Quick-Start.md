@@ -19,15 +19,30 @@ TODO: official link
 
 TODO: describe that it's a free Java IDE
 
-To install the IDE product, 
-use the [official Intellij IDEA installation guide](https://www.jetbrains.com/help/idea/installation-guide.html).
+To install the Intellij IDEA product, use the [official Intellij IDEA installation guide](https://www.jetbrains.com/help/idea/installation-guide.html).
 
 ## PyCharm Community Edition
 
-TODO: describe that it's a free Python IDE
+PyCharm is free Python IDE from Jetbrains. It also allows installing all free plugins from the JetBrains Marketplace.
 
-To install the base PyCharm Community Edition,
-use the official installation guide at https://www.jetbrains.com/help/pycharm/installation-guide.html.
+To install the base PyCharm Community Edition, 
+use the [official installation guide](https://www.jetbrains.com/help/pycharm/installation-guide.html).
 
+## Install EAP version of the plugin
+
+Besides stable releases of the plugin, we also release the EAP version, which builds every time there's 
+a code merged into the master branch.
+
+To use those EAPs, you need to enable EAP repos in your plugins settings: 
+
+1. Open **Settings | Plugins**, click on gear icon on the right. 
+
+2. Select **Manage Plugin Repositories...** from the dropdown. 
+
+3. Click "+", enter `https://plugins.jetbrains.com/plugins/eap/list` and click OK. 
+
+4. Restart your IDE, go to the **Settings | Plugins** once again and update your Move Language plugin. 
+
+![Add EAP plugin repository](eap-channel.gif)
 
 
