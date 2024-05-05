@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+  <rule id="71432b2f">
+    <description>Created after removal of "What's New 2" from Help Instance</description>
+    <accepts>What-s-New-2.html</accepts>
+  </rule>
+  <rule id="564b1c22">
+    <description>Created after removal of "Run Tests" from Help Instance</description>
+    <accepts>Run-Tests.html</accepts>
+  </rule>
+  <rule id="4b233db8">
+    <description>Created after removal of "Run Tests" from Help Instance</description>
+    <accepts>Run-Tests.html</accepts>
+  </rule>
+  <rule id="5c80929f">
+    <description>Created after removal of "Explore Test Results" from Help Instance</description>
+    <accepts>Explore-Test-Results.html</accepts>
+  </rule>
+  <rule id="61134757">
+    <description>Created after removal of "Type Checking" from Help Instance</description>
+    <accepts>Type-Checking.html</accepts>
+  </rule>
+  <rule id="1d585500">
+    <description>Created after removal of "Aptos Integration" from Help Instance</description>
+    <accepts>Aptos-Integration.html</accepts>
+  </rule>
+  <rule id="3f4ab99">
+    <description>Created after removal of "Use Statements Integration" from Help Instance</description>
+    <accepts>Use-Statements-Integration.html</accepts>
+  </rule>
+  <rule id="5347bb4">
+    <description>Created after removal of "Decompiling" from Help Instance</description>
+    <accepts>Decompiling.html</accepts>
+  </rule>
+  <rule id="25494b8f">
+    <description>Created after removal of "CI Integration" from Help Instance</description>
+    <accepts>CI Integration.html</accepts>
+  </rule>
+</rules>
