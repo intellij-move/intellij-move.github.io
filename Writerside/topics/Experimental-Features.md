@@ -1,7 +1,7 @@
 # Experimental Features
 
 There's a number of experimental features that are disabled by default, but can be turned on with the registry options. 
-To enable those, press <shortcut key="$SearchActions">, type "Registry" and select it to open Registry Editor window.
+To enable those, press <shortcut key="$SearchActions"/>, type "Registry" and select it to open Registry Editor window.
 
 You can also set those by clicking **Help | Edit Custom Properties...** and specify explicit boolean values 
 for those properties.  
