@@ -6,7 +6,7 @@
                   name="Intellij-Move documentation"
                   start-page="Quick-Start.md">
 
-  <toc-element topic="Default-topic.md" />
+<!--  <toc-element topic="Default-topic.md" />-->
 
   <toc-element topic="Quick-Start.md" />
   <toc-element topic="FAQ.md" />
