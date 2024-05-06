@@ -12,5 +12,11 @@
       <shortcut layout="macOS">⌘ B</shortcut>
       <shortcut layout="Linux">Ctrl+B</shortcut>
     </action>
+    <action id="$SearchActions">
+      <description>Search for Actions</description>
+      <shortcut layout="Windows">Ctrl+Shift+A</shortcut>
+      <shortcut layout="macOS">⌘ Shift A</shortcut>
+      <shortcut layout="Linux">Ctrl+Shift+A</shortcut>
+    </action>
   </actions>
 </keymap>
