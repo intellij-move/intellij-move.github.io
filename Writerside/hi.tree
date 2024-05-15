@@ -6,27 +6,32 @@
                   name="Intellij-Move documentation"
                   start-page="Quick-Start.md">
 
-<!--  <toc-element topic="Default-topic.md" />-->
-
   <toc-element topic="Quick-Start.md" />
   <toc-element topic="FAQ.md" />
+
   <toc-element topic="Features.md">
     <toc-element topic="Syntax-Highlighting.md" />
     <toc-element topic="Navigation-and-Search.md" />
     <toc-element topic="Code-Reference-Info.md" />
     <toc-element topic="Code-Formatter.md" />
     <toc-element topic="Code-Analysis.md" />
+    <toc-element topic="Rename-refactoring.md" />
     <toc-element topic="Imports-Integration.md" />
-    <toc-element topic="Aptos-Integration.md" />
   </toc-element>
-  <toc-element topic="Run-Aptos-CLI-commands.md">
-    <toc-element topic="Compiling.md" />
+
+  <toc-element topic="Aptos-CLI-integration.md">
+    <toc-element topic="Opening-Loading-Aptos-Projects.md" />
+    <toc-element topic="Aptos-tool-window.md" />
     <toc-element topic="Decompiling.md" />
     <toc-element topic="Testing.md" />
-    <toc-element topic="Executing-Transactions.md" />
   </toc-element>
+
+  <toc-element topic="Project-Settings.md" />
+
   <toc-element topic="What-s-New.md">
     <toc-element topic="1-36-0.md" />
   </toc-element>
-  <toc-element topic="Experimental-Features.md" />
+
+  <toc-element topic="Internal-Flags-Experimental-Features.md" />
+
 </instance-profile>

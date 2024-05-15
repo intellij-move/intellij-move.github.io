@@ -1,14 +1,18 @@
-# Testing
-
-## Run Tests
+# Run tests
 
 Intellij-Move plugin integrates with Aptos and Sui CLIs testing functionality.
 
-TODO: little explanation on Run Configurations and reference to the RustRover docs on it
+TODO: a little explanation on Run Configurations
 
-TODO: run folder / file
-TODO: run module / function
-TODO: generate `--skip-fetch-latest-git-deps` option automatically
+Take a look at [RustRover documentation](https://www.jetbrains.com/help/rust/run-debug-configuration.html) for more information.
+
+<procedure title="Run tests in file / folder" id="run_tests_in_file_folder">
+<step></step>
+</procedure>
+
+<procedure title="Run test module / test function" id="run_test_module_test_function">
+<step></step>
+</procedure>
 
 ## Explore Test Results
 

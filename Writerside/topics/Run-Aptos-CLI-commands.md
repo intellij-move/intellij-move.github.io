@@ -1,3 +1,0 @@
-# Run Aptos CLI commands
-
-Start typing here...

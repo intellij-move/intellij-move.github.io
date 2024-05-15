@@ -8,7 +8,7 @@ If you want to re-add it for your experiments, click + to create a new topic, ch
 ## Add new topics
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
-![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321"}
+![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321" }
 
 ## Write content
 %product% supports two types of markup: Markdown and XML.
