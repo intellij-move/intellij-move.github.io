@@ -7,23 +7,25 @@ With Intellij Move, you have two options for static code analysis: the built-in 
 Inspections detect and help to correct anomalous code before you compile it. 
 This includes various problems like potential bugs, spelling problems, or overall code structure issues.
 
-By default, most of the Rust inspections work on-the-fly. Some also provide quick-fixes to be applied right away. Find a few examples below:
+By default, most of the Rust inspections work on-the-fly. Some also provide quick-fixes to be applied right away. 
 
-TODO: type checking gif
+[//]: # (TODO: unresolved reference gif &#40;with auto-import quickfix&#41;)
 
-TODO: unresolved reference gif (with auto-import quickfix)
+[//]: # (TODO: type checking gif)
 
-TODO: unused import gif
+[//]: # (TODO: unused import gif)
 
 You can also run inspections on demand by calling **Code | Inspect Code** from the main menu. 
 In this case, the results are shown in a separate window, from which you can apply quick-fixes 
-to a single case or to several cases at a time:
+to a single case or to several cases at a time.
 
-TODO: image for receiver-style function checking
+[//]: # (TODO: image for receiver-style function checking)
 
 ## External linters
 
-In addition to the built-in set of inspections, Intellij Move helps you run [Aptos Compiler](https://aptos.dev/tools/aptos-cli/use-cli/working-with-move-contracts/#1-compiling-move) without leaving the IDE.
+In addition to the built-in set of inspections, Intellij Move helps you run 
+[Aptos Compiler](https://aptos.dev/tools/aptos-cli/use-cli/working-with-move-contracts/#1-compiling-move) 
+without leaving the IDE.
 
 <procedure title="Call Aptos Compiler" id="call-aptos-compile">
     <step>Go to <b>Settings | Language & Frameworks | Move Language | External Linters</b>.</step>

@@ -18,5 +18,23 @@
       <shortcut layout="macOS">⌘ Shift A</shortcut>
       <shortcut layout="Linux">Ctrl+Shift+A</shortcut>
     </action>
+    <action id="$ReformatCode">
+      <description>Reformat Code</description>
+      <shortcut layout="Windows">Ctrl+Alt+L</shortcut>
+<!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Ctrl+Alt+L</shortcut>
+    </action>
+    <action id="$ReformatFile">
+      <description>Reformat File</description>
+      <shortcut layout="Windows">Ctrl+Alt+Shift+L</shortcut>
+<!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Ctrl+Alt+Shift+L</shortcut>
+    </action>
+    <action id="$ProjectView">
+      <description>Open Project View</description>
+      <shortcut layout="Windows">Alt+1</shortcut>
+      <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Alt+1</shortcut>
+    </action>
   </actions>
 </keymap>
