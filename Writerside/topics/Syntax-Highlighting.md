@@ -7,7 +7,7 @@ Intellij-Move plugin focuses on the Aptos dialect of the Move Language and suppo
 Some of the Compiler-V2 features are also supported right now: 
 
 * receiver-style functions
-* resource access specifiers
+* resource access specifiersa
 
 TODO: gif
 
