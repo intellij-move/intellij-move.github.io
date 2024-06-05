@@ -5,7 +5,7 @@
 (or select <b>Move.toml</b> itself)
 </step>
 <step>Check the Aptos tool window (<b>View | Tool windows | Aptos</b>) to make sure your project has been imported successfully:
-<img src="opened_project.png" alt="Aptos Tool Window with imported project" border-effect="line" width="600">
+<img src="opened_project.png" alt="Aptos Tool Window with imported project" border-effect="line" width="600" />
 </step>
 </procedure>
 
@@ -30,8 +30,8 @@ You can change that behaviour in **Settings | Build, Execution, Deployment | Bui
 
 ### Manual reloading
 
-If automatic reloading is partly/fully disabled, the IDE will still let you know whenever the model needs an update 
-- the editor will display a button that you can use to quickly reload the model.
+If automatic reloading is partly/fully disabled, the IDE will still let you know whenever 
+the model needs an update - the editor will display a button that you can use to quickly reload the model.
 
 ![Load Changes](load_changes.gif)
 
