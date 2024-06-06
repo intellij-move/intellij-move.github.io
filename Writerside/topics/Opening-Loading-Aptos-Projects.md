@@ -10,7 +10,19 @@
 </procedure>
 
 <procedure title="Create new Aptos project" id="create_new_aptos_project">
-<step></step>
+<note>This functionality is only available from the lesser IDEs like PyCharm and RustRover, NOT from the Intellij IDEA.</note>
+<step>
+Go to <b>File | New project...</b> and select the <b>Move</b> project type under the <b>Other</b> section at the left side.
+<img src="new_project.png" alt="New Project" width="600" border-effect="line" />
+</step>
+<step>
+Choose project name, select blockchain type and select Aptos CLI to use for the initialization process. 
+Move on Aptos IDE plugin ships with the built-in Aptos CLI. If you wish to use the different version of the CLI, 
+you can download it with the <b>Get Aptos | Download pre-compiled binary from GitHub</b> action link.
+<img src="download_aptos.gif" alt="Download Aptos" border-effect="line" width="400" />
+<note>Pre-built Aptos CLIs are not available for the MacOS X: bundled CLI is not supported, and there's no download action accessible. 
+You should use <code>brew install</code> to acquire your Aptos CLI instead.</note>
+</step>
 </procedure>
 
 ## Project loading
