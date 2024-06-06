@@ -12,7 +12,7 @@
   <toc-element topic="Features.md">
     <toc-element topic="Syntax-Highlighting.md" />
     <toc-element topic="Navigation-and-Search.md" />
-    <toc-element topic="Code-Reference-Info.md" />
+<!--    <toc-element topic="Code-Reference-Info.md" />-->
     <toc-element topic="Code-Formatter.md" />
     <toc-element topic="Code-Analysis.md" />
     <toc-element topic="Rename-refactoring.md" />
