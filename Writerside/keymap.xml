@@ -36,5 +36,11 @@
       <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
       <shortcut layout="Linux">Alt+1</shortcut>
     </action>
+    <action id="$RenameItem">
+      <description>Rename Item</description>
+      <shortcut layout="Windows">Shift+F6</shortcut>
+      <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Shift+F6</shortcut>
+    </action>
   </actions>
 </keymap>
