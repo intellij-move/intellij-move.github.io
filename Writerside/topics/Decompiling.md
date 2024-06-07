@@ -12,7 +12,14 @@ Underneath, <code>aptos move decompile</code> will be called.
 </procedure>
 
 <procedure title="Decompile a package from the blockchain" id="decompile_a_package_from_the_blockchain">
-<step></step>
+<step>Open Aptos tool window <b>View | Tool Windows | Aptos</b>. Click on the <b>Fetch on-chain package</b> action button.
+<img src="fetch_package_action.png" alt="Fetch Package Action" width="400"/>
+</step>
+<step>In the <b>Aptos Decompiler</b> dialog, choose <b>Address</b>, <b>Package name</b> and optionally other parameters.
+<img src="aptos_decompiler_dialog.png" alt="Aptos Decompiler dialog" />
+Click <b>OK</b>.
+</step>
+<step>After downloading and decompilation process finished, check out your selected <b>Output directory</b> for the result.</step>
 </procedure>
 
 
