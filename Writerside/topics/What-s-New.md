@@ -1,3 +1,3 @@
 # What&apos;s New
 
-Start typing here...
+* [Changelog for 1.36.0](1-36-0.md)
