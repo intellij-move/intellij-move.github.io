@@ -3,13 +3,13 @@
     SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                  name="Intellij-Move documentation"
+                  name="IntelliJ-Move plugin documentation"
                   start-page="Quick-Start.md">
 
   <toc-element topic="Quick-Start.md" />
   <toc-element topic="FAQ.md" />
 
-  <toc-element topic="Features.md">
+  <toc-element toc-title="Features">
     <toc-element topic="Syntax-Highlighting.md" />
     <toc-element topic="Navigation-and-Search.md" />
 <!--    <toc-element topic="Code-Reference-Info.md" />-->
@@ -19,7 +19,7 @@
     <toc-element topic="Imports-Integration.md" />
   </toc-element>
 
-  <toc-element topic="Aptos-CLI-integration.md">
+  <toc-element toc-title="Aptos CLI Integration">
     <toc-element topic="Opening-Loading-Aptos-Projects.md" />
     <toc-element topic="Aptos-tool-window.md" />
     <toc-element topic="Decompiling.md" />
