@@ -42,5 +42,11 @@
       <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
       <shortcut layout="Linux">Shift+F6</shortcut>
     </action>
+    <action id="$OptimizeImports">
+      <description>OptimizeImports</description>
+      <shortcut layout="Windows">Ctrl+Alt+O</shortcut>
+      <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Ctrl+Alt+O</shortcut>
+    </action>
   </actions>
 </keymap>
