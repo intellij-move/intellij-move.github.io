@@ -4,7 +4,7 @@ IntelliJ-Move provides integration with the `aptos move decompile` command.
 
 <procedure title="Decompile a single bytecode file" id="decompile_a_single_bytecode_file">
 <step>Open the Aptos Bytecode file (with the <code>.mv</code> extension). By default, the IDE will show the binary contents of the file. 
-<img src="mv_file_contents.png" alt="Bytecode File contents" />
+<img src="mv_file_contents.png" alt="Bytecode File contents" /> 
 If Aptos CLI is configured correctly, notification will be shown at the top of the file, allowing to decompile it and show the source code. 
 Underneath, <code>aptos move decompile</code> will be called.  
 </step>
@@ -16,7 +16,7 @@ Underneath, <code>aptos move decompile</code> will be called.
 <img src="fetch_package_action.png" alt="Fetch Package Action" width="400"/>
 </step>
 <step>In the <b>Aptos Decompiler</b> dialog, choose <b>Address</b>, <b>Package name</b> and optionally other parameters.
-<img src="aptos_decompiler_dialog.png" alt="Aptos Decompiler dialog" />
+<img src="aptos_decompiler_dialog.png" alt="Aptos Decompiler dialog" /> 
 Click <b>OK</b>.
 </step>
 <step>After downloading and decompilation process finished, check out your selected <b>Output directory</b> for the result.</step>
