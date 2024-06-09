@@ -12,6 +12,12 @@
       <shortcut layout="macOS">⌘ B</shortcut>
       <shortcut layout="Linux">Ctrl+B</shortcut>
     </action>
+    <action id="$FindUsages">
+      <description>Find Usages in the Project</description>
+      <shortcut layout="Windows">Alt+Shift+7</shortcut>
+<!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Alt+Shift+7</shortcut>
+    </action>
     <action id="$SearchActions">
       <description>Search for Actions</description>
       <shortcut layout="Windows">Ctrl+Shift+A</shortcut>
@@ -43,10 +49,22 @@
       <shortcut layout="Linux">Shift+F6</shortcut>
     </action>
     <action id="$OptimizeImports">
-      <description>OptimizeImports</description>
+      <description>Optimize Imports</description>
       <shortcut layout="Windows">Ctrl+Alt+O</shortcut>
       <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
       <shortcut layout="Linux">Ctrl+Alt+O</shortcut>
+    </action>
+    <action id="$ShowFileStructure">
+      <description>Show File Structure</description>
+      <shortcut layout="Windows">Alt+7</shortcut>
+      <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Alt+7</shortcut>
+    </action>
+    <action id="$NavigateFileStructure">
+      <description>Show File Structure in Popup</description>
+      <shortcut layout="Windows">Ctrl+F12</shortcut>
+      <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Ctrl+F12</shortcut>
     </action>
   </actions>
 </keymap>
