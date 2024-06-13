@@ -6,4 +6,8 @@
     <layout name="Linux" display-name="Linux"/>
     <layout name="macOS" display-name="macOS"/>
   </shortcuts>
+  <variables>
+    <header-logo>icon100.svg</header-logo>
+    <custom-favicons>icon100.svg</custom-favicons>
+  </variables>
 </buildprofiles>
