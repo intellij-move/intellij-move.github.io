@@ -8,8 +8,7 @@
   </shortcuts>
   <variables>
     <header-logo>icon100.svg</header-logo>
-    <web-root>https://intellij-move.github.io/</web-root>
-    <product-web-url>https://plugins.jetbrains.com/plugin/14721-move-on-aptos/</product-web-url>
+    <product-web-url>https://intellij-move.github.io/</product-web-url>
     <custom-favicons>icon100.svg</custom-favicons>
   </variables>
   <footer>
