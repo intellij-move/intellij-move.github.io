@@ -28,13 +28,13 @@ In addition to the built-in set of inspections, Intellij Move helps you run
 without leaving the IDE.
 
 <procedure title="Call Aptos Compiler" id="call-aptos-compile">
-    <step>Go to <b>Settings | Language & Frameworks | Move Language | External Linters</b>.</step>
+    <step>Go to <b>Settings | Language & Frameworks | Aptos | External Linters</b>.</step>
     <step>Select the external linter (at the time only <b>Aptos Compiler</b> is supported) and provide additional arguments if required:
     <img src="external_linter_settings.png" alt="External Linter Settings" height="400" border-effect="line"/>
     </step>
     <step>Set the <b>Run external linter to analyze code on the fly</b> checkbox if you prefer the chosen linter to work as you type.
     <note>
-    This might cause significant performance slowdown. In that case, Intellij-Move will notify you.
+    This might cause significant performance slowdown. In that case, IntelliJ-Move will notify you.
     </note>
     <p>A widget in the status bar will also show the status of the on-the-fly analysis option. You can click it to quickly open the linters settings.</p>
     <img src="external_linter_widget.png" alt="External Linter Widget" height="100" border-effect="line"/>
