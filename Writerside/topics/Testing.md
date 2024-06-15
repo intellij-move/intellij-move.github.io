@@ -11,7 +11,3 @@ Intellij-Move plugin integrates with Aptos and Sui CLIs testing functionality.
 </procedure>
 
 Take a look at [RustRover documentation](https://www.jetbrains.com/help/rust/run-debug-configuration.html) for more information.
-
-## Explore Test Results
-
-TBD

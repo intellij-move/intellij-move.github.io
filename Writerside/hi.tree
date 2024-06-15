@@ -3,7 +3,7 @@
     SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                  name="Move on Aptos Plugin"
+                  name="Move on Aptos IntelliJ Plugin"
                   start-page="Quick-Start.md">
 
   <toc-element topic="Quick-Start.md" />

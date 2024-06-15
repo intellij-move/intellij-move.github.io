@@ -16,7 +16,7 @@ Go to <b>File | New project...</b> and select the <b>Move</b> project type under
 <img src="new_project.png" alt="New Project" width="600" border-effect="line" />
 </step>
 <step>
-Choose project name, select blockchain type and select Aptos CLI to use for the initialization process. 
+Choose project name and select Aptos CLI to use for the initialization process. 
 Move on Aptos IDE plugin ships with the built-in Aptos CLI. If you wish to use the different version of the CLI, 
 you can download it with the <b>Get Aptos | Download pre-compiled binary from GitHub</b> action link.
 <img src="download_aptos.gif" alt="Download Aptos" border-effect="line" width="400" />
@@ -31,7 +31,7 @@ When you open or update an existing Aptos project, the plugin takes project info
 and opens the **Build** tool window (the **Sync** tab) to show the progress and result of project loading. 
 Click ![inspections-eye](inspectionsEye.svg) to view all the steps:
 
-![Build Tool Window image](build_sync.png) { border-effect="line" width="450"}
+![Build Tool Window image](build_sync.png) { border-effect="line" width="550"}
 
 ### Automatic reloading
 
@@ -47,6 +47,6 @@ the model needs an update - the editor will display a button that you can use to
 
 ![Load Changes](load_changes.gif)
 
-Alternatively, you can reload projects through the Cargo tool window (**View | Tool Windows | Cargo**) 
+Alternatively, you can reload projects through the Aptos tool window (**View | Tool Windows | Aptos**) 
 by clicking the ![Reload Icon](refresh.svg) in the toolbar.
 
