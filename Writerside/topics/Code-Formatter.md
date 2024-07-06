@@ -24,7 +24,7 @@ If you call Reformat Code without selecting a fragment, the IDE will reformat th
 </step>
 </procedure>
 
-<procedure title="Reformat all files in the the specific directory, or for the whole project" id="reformat_the_whole_project">
+<procedure title="Reformat all files in the specific directory, or for the whole project" id="reformat_the_whole_project">
 <step>Open Project tool window 
 (press <shortcut key="$ProjectView" /> or select <b>View | Tool Windows | Project</b> if it's not already visible).</step>
 <step>Select the project root, or any other directory.</step>
