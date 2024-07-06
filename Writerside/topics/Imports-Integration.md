@@ -21,7 +21,7 @@ and the IDEs will remove all the highlighted use items.
 
 Searching through the code for the functions and types, and adding use statements for them manually can be a tedious task. 
 Intellij-Move provides a way to automatically add the correct statements 
-for an accessible items in the project by showing them up in the completion popup:
+for an accessible item in the project by showing them up in the completion popup:
 
 ![Auto Import](auto_import.gif) { border-effect="line" width="600"}
 
