@@ -34,7 +34,7 @@ without leaving the IDE.
     </step>
     <step>Set the <b>Run external linter to analyze code on the fly</b> checkbox if you prefer the chosen linter to work as you type.
     <note>
-    This might cause significant performance slowdown. In that case, IntelliJ-Move will notify you.
+    This might cause a significant performance slowdown. In that case, IntelliJ-Move will notify you.
     </note>
     <p>A widget in the status bar will also show the status of the on-the-fly analysis option. You can click it to quickly open the linters settings.</p>
     <img src="external_linter_widget.png" alt="External Linter Widget" height="100" border-effect="line"/>
