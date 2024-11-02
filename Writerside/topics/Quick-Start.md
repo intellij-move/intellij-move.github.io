@@ -31,6 +31,9 @@ use the [official installation guide](https://www.jetbrains.com/help/pycharm/ins
 
 ## Install EAP version of the plugin
 
+> EAP releases ain't published anymore, use stable releases for those
+{style="warning"}
+
 Besides stable releases of the plugin, we also release the EAP version, which builds every time there's 
 a code merged into the master branch.
 
