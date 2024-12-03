@@ -2,7 +2,8 @@
 
 Intellij-Move provides automatic code formatter to help making sure your code looks the same across the whole project.
 
-[//]: # (TODO: gif to showcase the formatting experience)
+> This section is for plugin's own Move code formatter.
+> If you want to use `movefmt` as your code formatter, check out the [movefmt integration](Movefmt.md) section.
 
 ## Formatting code from the IDE
 
@@ -16,7 +17,7 @@ If you call Reformat Code without selecting a fragment, the IDE will reformat th
 </note>
 </procedure>
 
-<procedure title="Reformat a file" id="reformat_a_file">
+<procedure title="Reformat a file" id="reformat_file">
 <step>Open the file you'd like to reformat.</step>
 <step>Press <shortcut key="$ReformatFile"/> or select <b>Code | Reformat File...</b> from the main menu.</step>
 <step>In the <b>Reformat File</b> dialog, select additional options if necessary. Click <b>Run</b>.
@@ -24,7 +25,7 @@ If you call Reformat Code without selecting a fragment, the IDE will reformat th
 </step>
 </procedure>
 
-<procedure title="Reformat all files in the the specific directory, or for the whole project" id="reformat_the_whole_project">
+<procedure title="Reformat all files in the specific directory, or for the whole project" id="reformat_the_whole_project">
 <step>Open Project tool window 
 (press <shortcut key="$ProjectView" /> or select <b>View | Tool Windows | Project</b> if it's not already visible).</step>
 <step>Select the project root, or any other directory.</step>
@@ -33,22 +34,5 @@ If you call Reformat Code without selecting a fragment, the IDE will reformat th
 <img src="reformat_directory_code.png" alt="Reformat Directory Code" height="400" border-effect="line"/>
 </step>
 </procedure>
-
-[//]: # (## Add formatting check to CI)
-
-[//]: # (### Qodana)
-
-[//]: # ()
-[//]: # (The easiest way to add formatting check to your CI pipeline is )
-
-[//]: # (using Jetbrains [Qodana Cloud service]&#40;https://qodana.cloud/&#41;. It's free )
-
-[//]: # (for open-source projects.)
-
-[//]: # (### Manual)
-
-[//]: # (If your project is not public, and you don't want to buy Qodana license, you'd need to setup your CI formatter check manually. )
-
-
 
 

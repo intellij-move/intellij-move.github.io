@@ -66,5 +66,11 @@
       <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
       <shortcut layout="Linux">Ctrl+F12</shortcut>
     </action>
+    <action id="$OpenSettings">
+      <description>Open IDE settings</description>
+      <shortcut layout="Windows">Ctrl+Alt+S</shortcut>
+      <!--      <shortcut layout="macOS">⌘ B</shortcut>-->
+      <shortcut layout="Linux">Ctrl+Alt+S</shortcut>
+    </action>
   </actions>
 </keymap>
