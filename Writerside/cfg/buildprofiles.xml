@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+  <variables>
+    <header-logo>icon100.svg</header-logo>
+    <web-root>https://intellij-move.github.io/</web-root>
+    <product-web-url>https://intellij-move.github.io/</product-web-url>
+    <custom-favicons>icon100.svg</custom-favicons>
+    <analytics-head-script-file>google-analytics.html</analytics-head-script-file>
+  </variables>
+
   <shortcuts>
     <src>keymap.xml</src>
     <layout name="Windows" display-name="Windows"/>
     <layout name="Linux" display-name="Linux"/>
     <layout name="macOS" display-name="macOS"/>
   </shortcuts>
-  <variables>
-    <header-logo>icon100.svg</header-logo>
-    <web-root>https://intellij-move.github.io/</web-root>
-    <product-web-url>https://intellij-move.github.io/</product-web-url>
-    <custom-favicons>icon100.svg</custom-favicons>
-  </variables>
+
   <footer>
     <link href="https://github.com/pontem-network/intellij-move">Plugin on GitHub</link>
   </footer>
