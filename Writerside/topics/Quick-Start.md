@@ -10,43 +10,33 @@ There's a number of free options:
 
 You can also use Jetbrains paid products, like CLion, Intellij Ultimate, etc. 
 
-## RustRover IDE
+### RustRover IDE
 
 RustRover has a free non-commercial license available. To download it, 
 go to the https://www.jetbrains.com/rust/download/.   
 
-## Intellij IDEA Community Edition
+### Intellij IDEA Community Edition
 
 Intellij IDEA CE is a free IDE from Jetbrains, which has Java/Kotlin support built-in, 
 but also allows installing all the free plugins from the ecosystem. 
 
 To install the Intellij IDEA product, use the [official Intellij IDEA installation guide](https://www.jetbrains.com/help/idea/installation-guide.html).
 
-## PyCharm Community Edition
+### PyCharm Community Edition
 
 PyCharm CE is free Python IDE from Jetbrains. It also allows installing all free plugins from the JetBrains Marketplace.
 
 To install the base PyCharm Community Edition, 
 use the [official installation guide](https://www.jetbrains.com/help/pycharm/installation-guide.html).
 
-## Install EAP version of the plugin
+## Plugin installation
 
-> EAP releases ain't published anymore, use stable releases for those
-{style="warning"}
+Once you've opened any Move project in the IDE, it should suggest you automatically to install the relevant plugin. 
 
-Besides stable releases of the plugin, we also release the EAP version, which builds every time there's 
-a code merged into the master branch.
+If not, go to **File | Settings... | Plugins** (or just **Plugins** on the left if done from the landing screen), 
+click on **Marketplace** tab and then type "aptos" or "move on aptos" in the search form.
 
-To use those EAPs, you need to enable EAP repos in your plugins settings: 
+![install_plugin.gif](install_plugin.gif)
 
-1. Open **Settings | Plugins**, click on gear icon on the right. 
-
-2. Select **Manage Plugin Repositories...** from the dropdown. 
-
-3. Click "+", enter `https://plugins.jetbrains.com/plugins/eap/list` and click OK. 
-
-4. Restart your IDE, go to the **Settings | Plugins** once again and update your Move Language plugin. 
-
-![Add EAP plugin repository](eap-channel.gif)
 
 
