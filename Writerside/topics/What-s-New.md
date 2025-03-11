@@ -1,5 +1,6 @@
 # What's New
 
+* [Changelog for 1.44.0](1-44-0.md)
 * [Changelog for 1.43.0](1-43-0.md)
 * [Changelog for 1.42.0](1-42-0.md)
 * [Changelog for 1.41.1](1-41-1.md)
