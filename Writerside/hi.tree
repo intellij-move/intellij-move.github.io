@@ -30,6 +30,7 @@
   <toc-element topic="Project-Settings.md" />
 
   <toc-element topic="What-s-New.md">
+    <toc-element topic="1-45-0.md" />
     <toc-element topic="1-44-0.md" />
     <toc-element topic="1-43-0.md" />
     <toc-element topic="1-42-0.md" />
