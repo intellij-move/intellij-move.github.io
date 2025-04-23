@@ -4,7 +4,7 @@
 
 Intellij-Move is compatible with all Intellij-based IDEs (version 2023.2 or later). 
 We usually support the latest three generations of the IDE, and drop versions at the same time 
-as Android Studio releases new stable version.
+as Android Studio releases a new stable version.
 
 ## Does the plugin uses Aptos Move Analyzer or Move compiler? 
 
